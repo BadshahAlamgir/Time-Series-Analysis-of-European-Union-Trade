@@ -1,7 +1,5 @@
 # 🌍 EU Trade & Time Series Forecasting
 
-![EU Trade Banner](images/banner.png) <!-- Optional: Add a banner image here -->
-
 A complete **time series forecasting project** analyzing **European Union trade trends** over time.  
 The study evaluates multiple forecasting methods, compares performance, and provides actionable **policy recommendations** for sustainable trade growth in the EU.
 
