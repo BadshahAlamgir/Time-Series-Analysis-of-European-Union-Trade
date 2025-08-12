@@ -46,13 +46,13 @@ The study evaluates multiple forecasting methods, compares performance, and prov
 ![Naive Forecast](Eu_trade/naive.png)
 
 **Simple Exponential Smoothing**
-![SES Forecast](Eu_trade/Picture03.png)
+![SES Forecast](Eu_trade/Picture3.png)
 
 **Holt-Winters**
-![Holt-Winters Forecast](Eu_trade/hw.png)
+![Holt-Winters Forecast](Eu_trade/hws.png)
 
 **ARIMA (0,1,1)**
-![ARIMA Forecast](Eu_trade/arima.png)
+![ARIMA Forecast](Eu_trade/armodel.png)
 
 ---
 
