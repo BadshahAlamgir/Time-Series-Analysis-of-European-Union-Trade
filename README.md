@@ -38,21 +38,21 @@ The study evaluates multiple forecasting methods, compares performance, and prov
 ## 📊 Visualizations
 
 ### 1. EU Trade Over Time
-![EU Trade Time Series](images/eu_trade_ts.png)
+![EU Trade Time Series](Eu_trade/Rplot03.png)
 
 ### 2. Model Forecast Examples
 
 **Naive Method**
-![Naive Forecast](images/naive_forecast.png)
+![Naive Forecast](Eu_trade/naive.png)
 
 **Simple Exponential Smoothing**
-![SES Forecast](images/ses_forecast.png)
+![SES Forecast](Eu_trade/Picture03.png)
 
 **Holt-Winters**
-![Holt-Winters Forecast](images/holt_winters_forecast.png)
+![Holt-Winters Forecast](Eu_trade/hw.png)
 
 **ARIMA (0,1,1)**
-![ARIMA Forecast](images/arima_forecast.png)
+![ARIMA Forecast](Eu_trade/arima.png)
 
 ---
 
